@@ -1,0 +1,85 @@
+
+#encabezado1 h1{
+	color:blue;
+	text-align:center;
+	
+}
+body{
+	background-color:#9192F4;
+}
+#bloque1{
+
+	
+}
+#uno{
+	display: flex;
+}
+
+#texto{
+	padding-left:20px;
+	padding-right:20px;
+	color:red;
+	background-color:blue;
+	float:left;
+	margin-left:auto;
+	margin-right:auto;
+}
+#tabla1{
+	background-color:yellow;
+	margin-left:20%;
+	width:260px;
+	height:135px;
+}
+#parrafo{
+	float:left;
+	margin-top:100px;
+	margin-right:50px;
+	margin-left:-225px;
+}
+#bloque2{
+	padding-left:20px;
+	background-color:green;
+	float:left;
+	margin-top:200px;
+	margin-right:0px;
+	margin-left:-420px;
+	width: 350px;
+    height:225px;
+}
+#lista{
+	border:15px solid yellow;
+	margin-right:20%;
+	background-color:red;
+}
+#bloque3{
+	padding-left:20px;
+	padding-right:20px;
+	background-color:red;
+	float:left;
+	margin-top:225px;
+	margin-left:5px;
+	width:520px;
+	height:195px;
+	
+}
+
+#parrafo1{
+	color:red;
+	font-size:30px;
+}
+#parrafo2{
+	font-size:30px;
+}
+#imagen{
+	margin-top:220px;
+	margin-left:5px;
+}
+#L1{
+	color:purple;
+}
+#L2{
+	color:green;
+}
+
+
+
